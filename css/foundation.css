@@ -177,6 +177,7 @@ body {
   margin: 0;
   padding: 0;
   background: #fefefe;
+  background-image: url(../img/casa.jpg);
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-weight: normal;
   line-height: 1.5;
@@ -3141,7 +3142,7 @@ a.button:hover, a.button:focus {
   margin-bottom: 1rem;
   border: 1px solid #e6e6e6;
   border-radius: 3px;
-  background: #fefefe;
+  background: #fefefe; !important;
   -webkit-box-shadow: none;
           box-shadow: none;
   overflow: hidden;
@@ -3158,8 +3159,11 @@ a.button:hover, a.button:focus {
   -webkit-flex: 0 1 auto;
       -ms-flex: 0 1 auto;
           flex: 0 1 auto;
-  padding: 1rem;
-  background: #e6e6e6; }
+  padding: 0;
+  background: #D7D5D4;
+
+
+}
   .card-divider > :last-child {
     margin-bottom: 0; }
 
@@ -3772,8 +3776,8 @@ a.thumbnail {
 .column, .columns {
   width: 100%;
   float: left;
-  padding-right: 0.9375rem;
-  padding-left: 0.9375rem; }
+  padding-right: 0;
+  padding-left: 0QQq; }
   .column, .columns, .column:last-child:not(:first-child), .columns:last-child:not(:first-child) {
     float: left;
     clear: none; }
