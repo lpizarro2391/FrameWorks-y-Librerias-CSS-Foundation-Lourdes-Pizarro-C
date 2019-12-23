@@ -1,6 +1,4 @@
 .card-divider{
   min-height: 150px;
-
-.opacity{
-  opacity: 0.6;!important;
+  background-color: RGBA( 255 , 0 , 0, 0.2  );
 }
