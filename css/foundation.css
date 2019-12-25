@@ -3142,7 +3142,7 @@ a.button:hover, a.button:focus {
   margin-bottom: 1rem;
   border: 1px solid #e6e6e6;
   border-radius: 3px;
-  background: #fefefe; !important;
+  background: #fefefe;
   -webkit-box-shadow: none;
           box-shadow: none;
   overflow: hidden;
@@ -3752,16 +3752,16 @@ a.thumbnail {
     padding-right: 0;
     padding-left: 0; }
   .row .row {
-    margin-right: -0.9375rem;
-    margin-left: -0.9375rem; }
+    margin-right: 0rem;
+    margin-left: 0rem; }
     @media print, screen and (min-width: 40em) {
       .row .row {
-        margin-right: -0.9375rem;
-        margin-left: -0.9375rem; } }
+        margin-right: 0rem;
+        margin-left: 0rem; } }
     @media print, screen and (min-width: 64em) {
       .row .row {
-        margin-right: -0.9375rem;
-        margin-left: -0.9375rem; } }
+        margin-right: 0rem;
+        margin-left: 0rem; } }
     .row .row.collapse {
       margin-right: 0;
       margin-left: 0; }
