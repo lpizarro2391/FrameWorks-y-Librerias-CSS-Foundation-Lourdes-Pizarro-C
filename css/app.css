@@ -39,9 +39,8 @@ padding-right: 5px;
 }
 .buscador{
 padding: 10px;
-background-color: RGBA( 205 , 216 ,220, 0.9  )
-
-
+background-color: RGBA( 205 , 216 ,220, 0.9  );
+border-radius: 5px 5px 0 0;
 }
 .navegacion{
 padding-left: 10px;
