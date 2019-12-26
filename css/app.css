@@ -13,6 +13,8 @@
 
   border-top: 2px solid #CFD5D7 ;
   margin-top: 10px;
+  padding: 10px;
+
 
 
 }
@@ -29,9 +31,38 @@
 
 }
 
-.row{
+.contenido{
   background-color: RGBA( 83 , 115 , 128, 0.4  );
 padding-left: 5px;
 padding-right: 5px;
 
+}
+.buscador{
+padding: 10px;
+background-color: RGBA( 130 , 216 ,244, 0.9  )
+
+}
+.navegacion{
+padding-left: 10px;
+background-color: RGBA( 130 , 216 ,244, 0.9  )
+
+}
+
+.Inicio{
+
+  margin-right: 15px;
+ border: 1px solid #04B3ED  ;
+ box-sizing: border-box;
+}
+.platos{
+
+  margin-right: 15px;
+ border: 1px solid #04B3ED  ;
+ box-sizing: border-box;
+}
+.recetas{
+
+  margin-right: 15px;
+ border: 1px solid #04B3ED  ;
+ box-sizing: border-box;
 }
