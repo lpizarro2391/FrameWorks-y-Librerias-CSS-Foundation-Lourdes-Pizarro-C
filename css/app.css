@@ -66,3 +66,9 @@ background-color: RGBA( 130 , 216 ,244, 0.9  )
  border: 1px solid #04B3ED  ;
  box-sizing: border-box;
 }
+.favoritos{
+text-decoration-color: inherit;
+padding-left: 10px;
+background-color: RGBA( 130 , 216 ,244, 0.9  )
+
+}
