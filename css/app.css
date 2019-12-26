@@ -1,9 +1,37 @@
+
+
 .header{
   min-height: 150px;
-  background-color: RGBA( 83 , 115 , 128, 0.4  );
-  margin-bottom: 2px;
-  float: right;
+  border-right: 2px solid #CFD5D7 ;
+  padding-right: 10px;
+
+
 }
-.content{
+
+
+.content1{
+
+  border-top: 2px solid #CFD5D7 ;
+  margin-top: 10px;
+
+
+}
+.sub-header{
+  min-height: 150px;
+
+
+}
+
+.content2{
+
+  border-top: 2px solid #CFD5D7 ;
+  margin-top: 10px;
+
+}
+
+.row{
   background-color: RGBA( 83 , 115 , 128, 0.4  );
+padding-left: 5px;
+padding-right: 5px;
+
 }
