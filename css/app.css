@@ -1,8 +1,9 @@
 .header{
   min-height: 150px;
-
+  background-color: RGBA( 83 , 115 , 128, 0.4  );
+  margin-bottom: 2px;
+  float: right;
 }
 .content{
-  margin: 0px;
-  background-color: RGBA( 83 , 115 , 128, 0.4  )
+  background-color: RGBA( 83 , 115 , 128, 0.4  );
 }
