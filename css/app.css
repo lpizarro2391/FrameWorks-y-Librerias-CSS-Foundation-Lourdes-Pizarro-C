@@ -29,6 +29,8 @@
   border-top: 2px solid #CFD5D7 ;
   margin-top: 10px;
 
+
+
 }
 
 .contenido{
@@ -84,7 +86,7 @@ background-color: RGBA( 205 , 216 ,220, 0.9  );
   margin-bottom: 1rem;
 
   border-radius: 0;
-  
+
   box-shadow: none;
   overflow: hidden;
   color:  #04B3ED;
@@ -94,7 +96,7 @@ background-color: RGBA( 205 , 216 ,220, 0.9  );
 }
 
 .list-group-item {
-  padding: 1rem;
+  padding: 0rem;
 
 }
 
@@ -130,4 +132,24 @@ padding-right: 15px;
 padding-left: 10px;
 background-color: RGBA( 205 , 216 ,220, 0.9  );
 
+}
+.title1{
+  color: #04B3ED;
+  padding-left: 20px;
+
+}
+.title2{
+  font-size: 2rem;
+  line-height: 1.4;
+  padding-left: 20px;
+  margin: 0;
+}
+
+.imagen-entrada{
+padding: 10px;
+  margin-top: 10px;
+  background-color: RGBA( 187 , 234 , 252, 0.9  );
+}
+.media-object-section{
+  padding: 0px;
 }
