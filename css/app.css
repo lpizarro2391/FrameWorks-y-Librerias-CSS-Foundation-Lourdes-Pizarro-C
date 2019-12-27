@@ -4,30 +4,35 @@
   min-height: 150px;
   border-right: 2px solid #CFD5D7 ;
   padding-right: 10px;
+  margin-bottom: 10px;
 
 
 }
 
-
 .content1{
 
-  border-top: 2px solid #CFD5D7 ;
-  margin-top: 10px;
-  padding: 10px;
+
+  margin-top: 0px;
+
+  background-color: RGBA( 205 , 216 ,220, 0.7  );
+  margin-right: 10px;
+
+
 
 
 
 }
 .sub-header{
   min-height: 150px;
+    margin-bottom: 10px;
 
 
 }
 
 .content2{
 
-  border-top: 2px solid #CFD5D7 ;
-  margin-top: 10px;
+
+  margin-top: 0px;
 
 
 
@@ -41,12 +46,12 @@ padding-right: 5px;
 }
 .buscador{
 padding: 10px;
-background-color: RGBA( 205 , 216 ,220, 0.9  );
+
 border-radius: 5px 5px 0 0;
 }
 .navegacion{
 padding-left: 10px;
-background-color: RGBA( 205 , 216 ,220, 0.9  );
+
 
 }
 
@@ -71,7 +76,7 @@ background-color: RGBA( 205 , 216 ,220, 0.9  );
 .favoritos{
 
 padding-left: 10px;
-background-color: RGBA( 205 , 216 ,220, 0.9  );
+
 
 }
 
@@ -116,7 +121,7 @@ background-color: RGBA( 205 , 216 ,220, 0.9  );
 }
 
 .list-group-item:hover.active, .list-group-item:focus.active {
-  background-color: RGBA( 205 , 216 ,220, 0.9  );
+
 }
 
 .list-group-item.disabled, .list-group-item.disabled:hover, .list-group-item.disabled:focus, .list-group-item[disabled], .list-group-item[disabled]:hover, .list-group-item[disabled]:focus {
@@ -130,7 +135,7 @@ background-color: RGBA( 205 , 216 ,220, 0.9  );
 .historial{
 padding-right: 15px;
 padding-left: 10px;
-background-color: RGBA( 205 , 216 ,220, 0.9  );
+
 
 }
 .title1{
@@ -147,7 +152,7 @@ background-color: RGBA( 205 , 216 ,220, 0.9  );
 
 .imagen-entrada{
 padding: 10px;
-  margin-top: 10px;
+  margin-top: 0px;
   background-color: RGBA( 187 , 234 , 252, 0.9  );
 }
 .media-object-section{
