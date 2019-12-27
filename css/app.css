@@ -60,18 +60,21 @@ padding-left: 10px;
 
  border: 1px solid #04B3ED  ;
  box-sizing: border-box;
+
 }
 .platos{
 
 
  border: 1px solid #04B3ED  ;
  box-sizing: border-box;
+
 }
 .recetas{
 
 
  border: 1px solid #04B3ED  ;
  box-sizing: border-box;
+
 }
 .favoritos{
 
@@ -158,4 +161,14 @@ padding-left: 10px;
 #derecha,
 #izquierda {
     padding: 5px;
+}
+#vertical-menu{
+  padding: 15px;
+}
+.form{
+  padding: 15px;
+}
+.user{
+  font-weight: bold;
+  
 }
