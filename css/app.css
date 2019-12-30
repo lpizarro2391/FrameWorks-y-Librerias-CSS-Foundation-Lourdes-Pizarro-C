@@ -47,7 +47,7 @@ padding-right: 5px;
 .buscador{
 padding: 10px;
 
-border-radius: 5px 5px 0 0;
+border-radius: 10px 10px 0 0;
 }
 .navegacion{
 padding-left: 10px;
@@ -172,7 +172,28 @@ padding-left: 10px;
   font-weight: bold;
 
 }
-.usuario{
+#coment{
+padding-left: 10px;
+margin-top: 10px;
+text-align: left;
+display: flex;
+align-items: left;
+text-justify:auto;
+justify-content: space-between;
 
-  margin: 0px;
+}
+.comentarios{
+  border: 1px solid  #BFC1C2   ;
+  box-sizing: border-box;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+
+}
+#imagenc{
+  margin-top: 8px;
+  align-self: center;
 }
