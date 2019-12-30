@@ -16,7 +16,7 @@
 
   background-color: RGBA( 205 , 216 ,220, 0.7  );
 
-
+border-radius: 5px 5px 5px 5px;
 
 
 
@@ -157,6 +157,13 @@ padding-left: 10px;
 
   margin-top: 0px;
   background-color: RGBA( 187 , 234 , 252, 0.9  );
+  border-radius: 5px 5px 0 0;
+}
+.imagen-entrada1{
+
+  margin-top: 20px;
+  background-color: RGBA( 187 , 234 , 252, 0.9  );
+  border-radius: 5px 5px 0 0;
 }
 #derecha,
 #izquierda {
@@ -175,11 +182,8 @@ padding-left: 10px;
 #coment{
 padding-left: 10px;
 margin-top: 10px;
-text-align: left;
-display: flex;
-align-items: left;
-text-justify:auto;
-justify-content: space-between;
+
+
 
 }
 .comentarios{
@@ -188,9 +192,9 @@ justify-content: space-between;
   border-radius: 5px;
   padding: 10px;
   margin: 5px;
-  text-align: center;
+  text-align: justify;
   display: flex;
-  align-items: center;
+
 
 }
 #imagenc{
