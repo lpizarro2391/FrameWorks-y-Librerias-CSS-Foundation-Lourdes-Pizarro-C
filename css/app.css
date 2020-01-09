@@ -202,12 +202,42 @@ margin-top: 10px;
   align-self: center;
 }
 
-@media screen and ( max-width: 899px ){
+@media screen and ( max-width: 767px ){
 .imgcentral1{
   justify-content: center;
   align-items: center;
   display: flex;
   padding-left: 0px!important;
+}
+.imgcentral2{
+  justify-content: center;
+  align-items: center;
+
+  padding-left: 10px!important;
+}
+}
+
+@media only screen and (min-width: 768px) {
+  .imgcentral1{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding-left: 60px!important;
+  }
+  .imgcentral2{
+    justify-content: center;
+    align-items: center;
+
+    padding-left: 10px!important;
+  }
+}
+
+@media screen and (min-width: 900px){
+.imgcentral1{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding-left:15px!important;
 }
 .imgcentral2{
   justify-content: center;
