@@ -201,3 +201,18 @@ margin-top: 10px;
   margin-top: 8px;
   align-self: center;
 }
+
+@media screen and ( max-width: 899px ){
+.imgcentral1{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  padding-left: 0px!important;
+}
+.imgcentral2{
+  justify-content: center;
+  align-items: center;
+
+  padding-left: 10px!important;
+}
+}
